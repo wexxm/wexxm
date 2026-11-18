@@ -1,22 +1,21 @@
 <div align="center">
-  <table style="border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-    <tr>
-      <!-- Вот здесь мы задаем белый фон ячейки -->
-      <td align="center" style="background-color: #ffffff; padding: 30px 60px;">
-        <h1 style="color: #000000; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 28px;">
-          ДАРЬЯ ДАНИЛЕНКО
-        </h1>
-        <p style="margin: 15px 0 0 0;">
-          <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
-               style="height: 28px; border-radius: 6px;" 
-               alt="Data Analyst · Product Analyst" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+  <br>
+  <!-- Имя крупным шрифтом -->
+  <h1 style="color: #ffffff; font-weight: 900; margin: 0; letter-spacing: 2px; font-size: 36px; text-transform: uppercase;">
+    ДАРЬЯ ДАНИЛЕНКО
+  </h1>
 
-<br>
+  <!-- Красивая градиентная линия (это SVG картинка, GitHub ее не тронет) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=3&width=300&section=header" 
+       style="margin-top: 5px;" 
+       alt="line" />
+
+  <!-- Должность без навязчивого фона -->
+  <p style="margin-top: 15px; margin-bottom: 5px; font-size: 18px; color: #8b949e; font-weight: 500;">
+    Data Analyst &bull; Product Analyst
+  </p>
+  <br>
+</div>
 
 <p align="center">
   Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
