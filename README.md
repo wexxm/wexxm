@@ -1,13 +1,13 @@
 <h2 align="center">Мой стек</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-00A6C8?style=flat&logo=postgresql&logoColor=white" width="76" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="105" />
-  <img src="https://img.shields.io/badge/Pandas-7952B3?style=flat&logo=pandas&logoColor=white" width="110" />
-  <img src="https://img.shields.io/badge/NumPy-277A91?style=flat&logo=numpy&logoColor=white" width="105" />
-  <img src="https://img.shields.io/badge/Power_BI-D6A900?style=flat&logo=powerbi&logoColor=black" width="125" />
-  <img src="https://img.shields.io/badge/Tableau-1F8C9C?style=flat&logo=tableau&logoColor=white" width="115" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" width="100" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/python.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/pandas.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/numpy.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/powerbi.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/tableau.svg" />
+  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/excel.svg" />
 </p>
 
 
