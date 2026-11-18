@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет! Я Дарья Даниленко
+# Привет, я Дарья Даниленко
 
 ### Data Analyst/Product Analyst
 
