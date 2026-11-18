@@ -11,7 +11,7 @@
 
 </div>
 
-<h2 align="center">Инструменты</h2>
+<h2 align="center">Стек</h2>
 
 <div align="center">
 
