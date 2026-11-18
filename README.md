@@ -1,94 +1,89 @@
 <div align="center">
 
-# DARIA DANILENKO
+# Дарья Даниленко
 
-### DATA ANALYST
+### Data Analyst
 
-Анализирую данные · Нахожу закономерности · Помогаю принимать решения
+Портфолио и проекты по анализу данных
 
 
 
 
 </div>
 
-<h2 align="center">MY TOOLKIT</h2>
+<h2 align="center">Инструменты</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-168BDB?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-168BDB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-168BDB?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-168BDB?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-168BDB?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-168BDB?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-168BDB?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-168BDB?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-168BDB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-168BDB?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-168BDB?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-168BDB?style=flat&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-168BDB?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-168BDB?style=flat&logo=microsoftexcel&logoColor=white" />
 
 </div>
 
 
 
 
-<h2 align="center">SELECTED PROJECTS</h2>
+<h2 align="center">Мои проекты</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
-<img width="48" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+<img width="42" src="https://cdn.simpleicons.org/postgresql/4169E1" />
 <h3>SQL</h3>
 </div>
 
-Аналитические запросы, бизнес-метрики, RFM-сегментация и исследование клиентов.
+Запросы, расчёт метрик, RFM-анализ и сегментация клиентов.
 
 <div align="center">
-<a href="https://github.com/wexxm/SQL">Explore project →</a>
+<a href="https://github.com/wexxm/SQL">Посмотреть проект →</a>
 </div>
-
 </td>
-<td width="50%" valign="top">
 
+<td width="50%" valign="top">
 <div align="center">
-<img width="48" src="https://cdn.simpleicons.org/python/3776AB" />
+<img width="42" src="https://cdn.simpleicons.org/python/3776AB" />
 <h3>Python</h3>
 </div>
 
-Pandas, очистка данных, EDA и визуализация результатов.
+Pandas, обработка данных, исследовательский анализ и визуализация.
 
 <div align="center">
-<a href="https://github.com/wexxm/PYTHON">Explore project →</a>
+<a href="https://github.com/wexxm/PYTHON">Посмотреть проект →</a>
 </div>
-
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
-<img width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" />
-<h3>BI DASHBOARDS</h3>
+<img width="42" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+<h3>BI Dashboard</h3>
 </div>
 
-Интерактивные дашборды и визуализация бизнес-показателей.
+Дашборды и визуализация бизнес-показателей.
 
 <div align="center">
-<a href="https://github.com/wexxm/BI-Dashboard">Explore project →</a>
+<a href="https://github.com/wexxm/BI-Dashboard">Посмотреть проект →</a>
 </div>
-
 </td>
-<td width="50%" valign="top">
 
+<td width="50%" valign="top">
 <div align="center">
-<img width="48" src="https://cdn.simpleicons.org/googanalytics/E37400" />
-<h3>A/B TESTING</h3>
+<img width="42" src="https://cdn.simpleicons.org/googanalytics/E37400" />
+<h3>A/B Testing</h3>
 </div>
 
 Проверка гипотез, статистические тесты и анализ экспериментов.
 
 <div align="center">
-<a href="https://github.com/wexxm/A-B_Testing">Explore project →</a>
+<a href="https://github.com/wexxm/A-B_Testing">Посмотреть проект →</a>
 </div>
-
 </td>
 </tr>
 </table>
@@ -96,18 +91,19 @@ Pandas, очистка данных, EDA и визуализация резул�
 
 
 
-<h2 align="center">CURRENT FOCUS</h2>
+<h2 align="center">Методы анализа</h2>
 
 <div align="center">
 
-RFM Analysis · Cohort Analysis · EDA · A/B Testing
+RFM-анализ · Когортный анализ · EDA · A/B-тестирование
+
+</div>
 
 
 
 
+<div align="center">
 
-### DATA → INSIGHTS → DECISIONS
-
-<sub>Turning data into meaningful insights.</sub>
+<sub>Рада новым интересным аналитическим задачам ✨</sub>
 
 </div>
