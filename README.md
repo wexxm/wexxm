@@ -1,23 +1,20 @@
 <div align="center">
   <br>
-  <!-- Имя крупным шрифтом -->
-  <h1 style="color: #ffffff; font-weight: 900; margin: 0; letter-spacing: 2px; font-size: 36px; text-transform: uppercase;">
+  <!-- Имя -->
+  <h1 style="color: #ffffff; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 32px;">
     ДАРЬЯ ДАНИЛЕНКО
   </h1>
 
-  <!-- Красивая градиентная линия (это SVG картинка, GitHub ее не тронет) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=3&width=300&section=header" 
-       style="margin-top: 5px;" 
-       alt="line" />
-
-  <!-- Должность без навязчивого фона -->
-  <p style="margin-top: 15px; margin-bottom: 5px; font-size: 18px; color: #8b949e; font-weight: 500;">
-    Data Analyst &bull; Product Analyst
+  <!-- Бейдж (сделаем его аккуратным, не навязчивым) -->
+  <p style="margin-top: 15px; margin-bottom: 0;">
+    <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
+         style="height: 28px; border-radius: 6px;" 
+         alt="Data Analyst · Product Analyst" />
   </p>
-  <br>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 25px;">
+
   Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
 </p>
 
