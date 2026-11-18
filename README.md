@@ -1,19 +1,17 @@
 <div align="center">
 
-# 👋 Привет! Я Дарья
+# ДАРЬЯ ДАНИЛЕНКО
 
-### 📊 Аналитик данных
+### DATA ANALYST
 
-<sub>Исследую данные и превращаю их в бизнес-решения</sub>
+Портфолио проектов и аналитических исследований
 
 
 
 
 </div>
 
----
-
-<h2 align="center">🧰 МОЙ СТЕК</h2>
+<h2 align="center">ТЕХНОЛОГИИ И ИНСТРУМЕНТЫ</h2>
 
 <div align="center">
 
@@ -30,68 +28,71 @@
 
 
 
----
-
-<h2 align="center">📁 МОИ ПРОЕКТЫ</h2>
+<h2 align="center">ИЗБРАННЫЕ ПРОЕКТЫ</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h2>🗄️ SQL</h2>
-
-Аналитические запросы, расчёт метрик и бизнес-аналитика.
-
-
-
-
-<a href="https://github.com/wexxm/SQL">Подробнее →</a>
-
+<td width="65">
+<img width="38" src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg" />
 </td>
-<td width="50%" valign="top">
+<td>
 
-<h2>🐍 Python</h2>
+### SQL
 
-Исследование данных, обработка и визуализация с помощью Python.
+Аналитические запросы, расчёт метрик, сегментация клиентов и бизнес-анализ.
 
-
-
-
-<a href="https://github.com/wexxm/PYTHON">Подробнее →</a>
+<a href="https://github.com/wexxm/SQL">Открыть репозиторий →</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
+<img width="38" src="https://cdn.simpleicons.org/python/3776AB" />
+</td>
+<td>
 
-<h2>📊 BI</h2>
+### Python
+
+Обработка данных, Pandas, исследовательский анализ и визуализация.
+
+<a href="https://github.com/wexxm/PYTHON">Открыть репозиторий →</a>
+
+</td>
+</tr>
+<tr>
+<td>
+<img width="38" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+</td>
+<td>
+
+### BI DASHBOARDS
 
 Интерактивные дашборды и визуализация бизнес-показателей.
 
-
-
-
-<a href="https://github.com/wexxm/BI-Dashboard">Подробнее →</a>
+<a href="https://github.com/wexxm/BI-Dashboard">Открыть репозиторий →</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
+<img width="38" src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chart-no-axes-combined.svg" />
+</td>
+<td>
 
-<h2>🧪 A/B Testing</h2>
+### A/B TESTING
 
-Проверка гипотез, статистические тесты и анализ экспериментов.
+Статистические методы, проверка гипотез и анализ экспериментов.
 
-
-
-
-<a href="https://github.com/wexxm/A-B_Testing">Подробнее →</a>
+<a href="https://github.com/wexxm/A-B_Testing">Открыть репозиторий →</a>
 
 </td>
 </tr>
 </table>
 
----
 
-<h2 align="center">🎯 В ФОКУСЕ</h2>
+
+
+<h2 align="center">В ФОКУСЕ</h2>
 
 <div align="center">
 
@@ -103,12 +104,12 @@ RFM-анализ · Когортный анализ · EDA · A/B-тестиро
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 
-### Данные → Анализ → Решения ✨
+### DATA → INSIGHTS → DECISIONS
 
-<sub>Постоянно учусь, исследую и создаю новые проекты.</sub>
+<sub>Исследую данные. Нахожу закономерности. Формирую решения.</sub>
 
 </div>
