@@ -1,15 +1,28 @@
+<h1 align="center">ДАРЬЯ ДАНИЛЕНКО</h1>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Data_Analyst_%C2%B7_Product_Analyst-42C5E8?style=flat&labelColor=18212B&color=42C5E8"
+    height="34"
+    alt="Data Analyst · Product Analyst"
+  />
+</p>
+
+<p align="center">
+  Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
+</p>
+
 <h2 align="center">Мой стек</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/python.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/pandas.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/numpy.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/powerbi.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/tableau.svg" />
-  <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/excel.svg" />
+  <img src="https://img.shields.io/badge/SQL-00A6C8?style=flat&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Pandas-7952B3?style=flat&logo=pandas&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NumPy-277A91?style=flat&logo=numpy&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Power_BI-D6A900?style=flat&logo=powerbi&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/Tableau-1F8C9C?style=flat&logo=tableau&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="30" />
 </p>
-
 
 <h2 align="center">Мои проекты</h2>
 
