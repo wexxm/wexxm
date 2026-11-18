@@ -1,13 +1,16 @@
-<h1 align="center">ДАРЬЯ ДАНИЛЕНКО</h1>
+<h1 align="center">
+  ДАРЬЯ ДАНИЛЕНКО
+</h1>
 
-<!-- Исправленный главный бейдж: убрал черную подложку, сделал его более плоским и аккуратным -->
+
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-42C5E8?style=for-the-badge&logoColor=white"
-    style="height: 40px;"
-    alt="Data Analyst · Product Analyst"
+  <img 
+    src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-42C5E8?style=flat-square&labelColor=0d1117&logoColor=42C5E8" 
+    style="height: 28px;" 
+    alt="Data Analyst · Product Analyst" 
   />
 </p>
+
 
 <p align="center">
   Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
