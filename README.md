@@ -15,14 +15,13 @@
 <h2 align="center">Мой стек</h2>
 
 <p align="center">
-  <!-- Я добавил style="margin: 5px;" чтобы бейджи не слипались и выглядели аккуратнее -->
-  <img src="https://img.shields.io/badge/SQL-00A6C8?style=flat&logo=postgresql&logoColor=white" style="height: 35px; margin: 5px;" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 35px; margin: 5px;" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-7952B3?style=flat&logo=pandas&logoColor=white" style="height: 35px; margin: 5px;" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-277A91?style=flat&logo=numpy&logoColor=white" style="height: 35px; margin: 5px;" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-D6A900?style=flat&logo=powerbi&logoColor=black" style="height: 35px; margin: 5px;" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-1F8C9C?style=flat&logo=tableau&logoColor=white" style="height: 35px; margin: 5px;" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" style="height: 35px; margin: 5px;" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-00A6C8?style=flat&logo=postgresql&logoColor=white" style="height: 40px; margin: 6px;" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 40px; margin: 6px;" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-7952B3?style=flat&logo=pandas&logoColor=white" style="height: 40px; margin: 6px;" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-277A91?style=flat&logo=numpy&logoColor=white" style="height: 40px; margin: 6px;" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-D6A900?style=flat&logo=powerbi&logoColor=black" style="height: 40px; margin: 6px;" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-1F8C9C?style=flat&logo=tableau&logoColor=white" style="height: 40px; margin: 6px;" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" style="height: 40px; margin: 6px;" alt="Excel" />
 </p>
 
 
