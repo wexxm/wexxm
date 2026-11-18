@@ -1,27 +1,24 @@
 <h1 align="center">ДАРЬЯ ДАНИЛЕНКО</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA_ANALYST_%C2%B7_PRODUCT_ANALYST-42C5E8?style=for-the-badge&labelColor=18212B" />
+  <img src="https://img.shields.io/badge/Data_Analyst_%C2%B7_Product_Analyst-42C5E8?style=flat&labelColor=18212B&color=42C5E8" />
 </p>
 
 <p align="center">
   Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
 </p>
 
-
-
-<h2 align="center">МОЙ СТЕК</h2>
+<h2 align="center">Мой стек</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-00A6C8?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-1F6E8C?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00A6C8?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-7952B3?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-277A91?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-D6A900?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-1F8C9C?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 </p>
-
 
 <h2 align="center">Мои проекты</h2>
 
