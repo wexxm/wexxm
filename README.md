@@ -33,7 +33,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/wexxm/SQL">
-        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql-card.svg" width="100%" alt="SQL — CTE · оконные функции · расчёт метрик · RFM-анализ · когортный анализ"/>
+        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql-card.svg?v=2" width="100%" alt="SQL — CTE · оконные функции · расчёт метрик · RFM-анализ · когортный анализ"/>
       </a>
     </td>
     <td width="50%">
