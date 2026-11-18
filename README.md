@@ -1,11 +1,12 @@
-<div align="center">
+<h1 align="center">ДАРЬЯ ДАНИЛЕНКО</h1>
 
-# Привет, я Дарья Даниленко
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA_ANALYST_%C2%B7_PRODUCT_ANALYST-42C5E8?style=for-the-badge&labelColor=18212B" />
+</p>
 
-### Data Analyst/Product Analyst
-
-
-Дата-энтузиаст с любовью к точным выводам и красивому визуалу)
+<p align="center">
+  Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
+</p>
 
 
 
