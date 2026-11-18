@@ -1,14 +1,14 @@
 <div align="center">
   <br>
-
+  <!-- Начало карточки -->
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 30px; display: inline-block; text-align: center; min-width: 400px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
     
-\
+    <!-- Имя внутри карточки -->
     <h1 style="color: #ffffff; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 28px;">
       ДАРЬЯ ДАНИЛЕНКО
     </h1>
 
-\
+    <!-- Бейдж внутри той же карточки (сделан чуть прозрачным, чтобы не перебивать имя) -->
     <p style="margin-top: 15px; margin-bottom: 0;">
       <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
            style="height: 28px; border-radius: 6px;" 
@@ -16,7 +16,7 @@
     </p>
 
   </div>
-
+  <!-- Конец карточки -->
   <br>
 </div>
 
