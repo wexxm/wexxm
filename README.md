@@ -1,16 +1,24 @@
-<h1 align="center" style="color: #ffffff; font-weight: 800; margin-bottom: 0;">ДАРЬЯ ДАНИЛЕНКО</h1>
+<div align="center">
+  <br>
 
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 30px; display: inline-block; text-align: center; min-width: 400px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    
+\
+    <h1 style="color: #ffffff; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 28px;">
+      ДАРЬЯ ДАНИЛЕНКО
+    </h1>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-2ea043?style=flat-square&logoColor=white" 
-       style="height: 30px;" 
-       alt="Data Analyst · Product Analyst" />
-</p>
+\
+    <p style="margin-top: 15px; margin-bottom: 0;">
+      <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
+           style="height: 28px; border-radius: 6px;" 
+           alt="Data Analyst · Product Analyst" />
+    </p>
 
+  </div>
 
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #42C5E8, transparent); margin: 20px 0;">
-
+  <br>
+</div>
 
 <p align="center">
   Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
