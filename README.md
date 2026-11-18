@@ -33,12 +33,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/wexxm/SQL">
-        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql-card.svg?v=2" width="100%" alt="SQL — CTE · оконные функции · расчёт метрик · RFM-анализ · когортный анализ"/>
+        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/sql-card.svg" width="100%" alt="SQL — CTE, оконные функции, метрики, RFM и сегментация"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/wexxm/PYTHON">
-        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/python-card.svg" width="100%" alt="Python — Pandas, EDA и визуализация"/>
+        <img src="https://raw.githubusercontent.com/wexxm/wexxm/main/assets/python-card.svg" width="100%" alt="Python — Pandas, NumPy, Seaborn, Matplotlib и SciPy"/>
       </a>
     </td>
   </tr>
