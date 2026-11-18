@@ -1,22 +1,20 @@
 <div align="center">
   <br>
-  <!-- Имя -->
-  <h1 style="color: #ffffff; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 32px;">
+  
+  <!-- Имя крупное и жирное -->
+  <h1 style="color: #ffffff; font-weight: 800; margin: 0 0 10px 0; letter-spacing: 1px; font-size: 32px;">
     ДАРЬЯ ДАНИЛЕНКО
   </h1>
 
-  <!-- Бейдж (сделаем его аккуратным, не навязчивым) -->
-  <p style="margin-top: 15px; margin-bottom: 0;">
+  <!-- Бейдж с должностью прямо под именем -->
+  <p style="margin: 0;">
     <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
-         style="height: 28px; border-radius: 6px;" 
+         style="height: 30px; border-radius: 4px;" 
          alt="Data Analyst · Product Analyst" />
   </p>
-</div>
 
-<p align="center" style="margin-top: 25px;">
+  <br>
 
-  Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
-</p>
 
 <h2 align="center">Мой стек</h2>
 
