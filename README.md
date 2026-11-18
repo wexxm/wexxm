@@ -3,13 +3,13 @@
 <p align="center">
   <img
     src="https://img.shields.io/badge/Data_Analyst_%C2%B7_Product_Analyst-42C5E8?style=flat&labelColor=18212B&color=42C5E8"
-    style="height: 48px;"
-    alt="Data Analyst · Product Analyst"
+    style="height: 40px;"
+    alt="Data Analyst / Product Analyst"
   />
 </p>
 
 <p align="center">
-  <em>Дата-энтузиаст с любовью к точным выводам и хорошей визуализации</em>
+  Дата-энтузиаст с любовью к точным выводам и хорошей визуализации
 </p>
 
 <h2 align="center">Мой стек</h2>
