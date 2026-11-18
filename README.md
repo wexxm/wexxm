@@ -1,17 +1,19 @@
 <div align="center">
   <br>
-  <table style="border: 1px solid #d0d7de; border-radius: 10px; background-color: #ffffff; padding: 20px 40px;">
+  <table style="border: 1px solid #d0d7de; border-radius: 10px; border-collapse: separate; padding: 0;">
     <tr>
-      <td align="center">
-        <h1 style="color: #000000; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 28px;">
-          ДАРЬЯ ДАНИЛЕНКО
-        </h1>
-        <p style="margin: 15px 0 0 0;">
-          <!-- Бейдж оставил зеленым, он отлично смотрится на белом -->
-          <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
-               style="height: 28px; border-radius: 6px;" 
-               alt="Data Analyst · Product Analyst" />
-        </p>
+      <td align="center" style="padding: 0;">
+        <!-- Вложенный div с белым фоном и отступами -->
+        <div style="background-color: #ffffff; padding: 25px 50px; border-radius: 10px;">
+          <h1 style="color: #000000; font-weight: 800; margin: 0; letter-spacing: 1px; font-size: 28px;">
+            ДАРЬЯ ДАНИЛЕНКО
+          </h1>
+          <p style="margin: 15px 0 0 0;">
+            <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-238636?style=flat-square&logoColor=white" 
+                 style="height: 28px; border-radius: 6px;" 
+                 alt="Data Analyst · Product Analyst" />
+          </p>
+        </div>
       </td>
     </tr>
   </table>
