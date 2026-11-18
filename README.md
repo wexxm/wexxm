@@ -30,60 +30,100 @@
 
 <h2 align="center">Мои проекты</h2>
 
-<table>
+<table border="0" cellpadding="18" cellspacing="10">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#172D49">
+
 <div align="center">
-<img width="42" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+
+<img width="46" src="https://cdn.simpleicons.org/postgresql/8FC5FF" />
+
 <h3>SQL</h3>
+
 </div>
 
-Запросы, расчёт метрик, RFM-анализ и сегментация клиентов.
+Аналитические запросы, расчёт метрик, RFM-анализ и сегментация клиентов.
+
+
+
 
 <div align="center">
+
 <a href="https://github.com/wexxm/SQL">Посмотреть проект →</a>
+
 </div>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#193B42">
+
 <div align="center">
-<img width="42" src="https://cdn.simpleicons.org/python/3776AB" />
+
+<img width="46" src="https://cdn.simpleicons.org/python/8CE0D5" />
+
 <h3>Python</h3>
+
 </div>
 
 Pandas, обработка данных, исследовательский анализ и визуализация.
 
+
+
+
 <div align="center">
+
 <a href="https://github.com/wexxm/PYTHON">Посмотреть проект →</a>
+
 </div>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#403719">
+
 <div align="center">
-<img width="42" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+
+<img src="https://img.shields.io/badge/BI-F6D76B?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 <h3>BI Dashboard</h3>
+
 </div>
 
 Дашборды и визуализация бизнес-показателей.
 
+
+
+
 <div align="center">
+
 <a href="https://github.com/wexxm/BI-Dashboard">Посмотреть проект →</a>
+
 </div>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#352747">
+
 <div align="center">
-<img width="42" src="https://cdn.simpleicons.org/googanalytics/E37400" />
+
+<img src="https://img.shields.io/badge/A%2FB-D3A8FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
 <h3>A/B Testing</h3>
+
 </div>
 
 Проверка гипотез, статистические тесты и анализ экспериментов.
 
+
+
+
 <div align="center">
+
 <a href="https://github.com/wexxm/A-B_Testing">Посмотреть проект →</a>
+
 </div>
+
 </td>
 </tr>
 </table>
