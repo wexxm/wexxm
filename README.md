@@ -1,89 +1,93 @@
 <div align="center">
 
-# ДАРЬЯ ДАНИЛЕНКО
+# DARIA DANILENKO
 
 ### DATA ANALYST
 
-Портфолио проектов и аналитических исследований
+Анализирую данные · Нахожу закономерности · Помогаю принимать решения
 
 
 
 
 </div>
 
-<h2 align="center">ТЕХНОЛОГИИ И ИНСТРУМЕНТЫ</h2>
+<h2 align="center">MY TOOLKIT</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-168BDB?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-168BDB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-168BDB?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-168BDB?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-168BDB?style=flat&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-168BDB?style=flat&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-168BDB?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-168BDB?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-168BDB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-168BDB?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-168BDB?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-168BDB?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-168BDB?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-168BDB?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 </div>
 
 
 
 
-<h2 align="center">ИЗБРАННЫЕ ПРОЕКТЫ</h2>
+<h2 align="center">SELECTED PROJECTS</h2>
 
 <table>
 <tr>
-<td width="65">
-<img width="38" src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg" />
+<td width="50%" valign="top">
+
+<div align="center">
+<img width="48" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+<h3>SQL</h3>
+</div>
+
+Аналитические запросы, бизнес-метрики, RFM-сегментация и исследование клиентов.
+
+<div align="center">
+<a href="https://github.com/wexxm/SQL">Explore project →</a>
+</div>
+
 </td>
-<td>
+<td width="50%" valign="top">
 
-### SQL
+<div align="center">
+<img width="48" src="https://cdn.simpleicons.org/python/3776AB" />
+<h3>Python</h3>
+</div>
 
-Аналитические запросы, расчёт метрик, сегментация клиентов и бизнес-анализ.
+Pandas, очистка данных, EDA и визуализация результатов.
 
-<a href="https://github.com/wexxm/SQL">Открыть репозиторий →</a>
+<div align="center">
+<a href="https://github.com/wexxm/PYTHON">Explore project →</a>
+</div>
 
 </td>
 </tr>
 <tr>
-<td>
-<img width="38" src="https://cdn.simpleicons.org/python/3776AB" />
-</td>
-<td>
+<td width="50%" valign="top">
 
-### Python
-
-Обработка данных, Pandas, исследовательский анализ и визуализация.
-
-<a href="https://github.com/wexxm/PYTHON">Открыть репозиторий →</a>
-
-</td>
-</tr>
-<tr>
-<td>
-<img width="38" src="https://cdn.simpleicons.org/powerbi/F2C811" />
-</td>
-<td>
-
-### BI DASHBOARDS
+<div align="center">
+<img width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+<h3>BI DASHBOARDS</h3>
+</div>
 
 Интерактивные дашборды и визуализация бизнес-показателей.
 
-<a href="https://github.com/wexxm/BI-Dashboard">Открыть репозиторий →</a>
+<div align="center">
+<a href="https://github.com/wexxm/BI-Dashboard">Explore project →</a>
+</div>
 
 </td>
-</tr>
-<tr>
-<td>
-<img width="38" src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chart-no-axes-combined.svg" />
-</td>
-<td>
+<td width="50%" valign="top">
 
-### A/B TESTING
+<div align="center">
+<img width="48" src="https://cdn.simpleicons.org/googanalytics/E37400" />
+<h3>A/B TESTING</h3>
+</div>
 
-Статистические методы, проверка гипотез и анализ экспериментов.
+Проверка гипотез, статистические тесты и анализ экспериментов.
 
-<a href="https://github.com/wexxm/A-B_Testing">Открыть репозиторий →</a>
+<div align="center">
+<a href="https://github.com/wexxm/A-B_Testing">Explore project →</a>
+</div>
 
 </td>
 </tr>
@@ -92,24 +96,18 @@
 
 
 
-<h2 align="center">В ФОКУСЕ</h2>
+<h2 align="center">CURRENT FOCUS</h2>
 
 <div align="center">
 
-RFM-анализ · Когортный анализ · EDA · A/B-тестирование
+RFM Analysis · Cohort Analysis · EDA · A/B Testing
 
 
 
 
-
-</div>
-
-<hr/>
-
-<div align="center">
 
 ### DATA → INSIGHTS → DECISIONS
 
-<sub>Исследую данные. Нахожу закономерности. Формирую решения.</sub>
+<sub>Turning data into meaningful insights.</sub>
 
 </div>
