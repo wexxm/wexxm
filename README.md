@@ -1,9 +1,9 @@
 <h1 align="center" style="color: #ffffff; font-weight: 800; margin-bottom: 0;">ДАРЬЯ ДАНИЛЕНКО</h1>
 
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/-Data%20Analyst%20%C2%B7%20Product%20Analyst-42C5E8?style=flat-square&labelColor=0d1117&logoColor=42C5E8" 
-       style="height: 26px; border: 1px solid #42C5E8;" 
+<p align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-2ea043?style=flat-square&logoColor=white" 
+       style="height: 30px;" 
        alt="Data Analyst · Product Analyst" />
 </p>
 
