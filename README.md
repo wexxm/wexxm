@@ -9,21 +9,17 @@
 
 
 
-</div>
+<h2 align="center">МОЙ СТЕК</h2>
 
-<h2 align="center">Стек</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-168BDB?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-168BDB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-168BDB?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-168BDB?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-168BDB?style=flat&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-168BDB?style=flat&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-168BDB?style=flat&logo=microsoftexcel&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-00A6C8?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-1F6E8C?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 
 <h2 align="center">Мои проекты</h2>
