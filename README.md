@@ -1,10 +1,11 @@
 <h1 align="center">ДАРЬЯ ДАНИЛЕНКО</h1>
 
+<!-- Исправленный главный бейдж: убрал черную подложку, сделал его более плоским и аккуратным -->
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Data_Analyst_%C2%B7_Product_Analyst-42C5E8?style=flat&labelColor=18212B&color=42C5E8"
+    src="https://img.shields.io/badge/Data%20Analyst%20%C2%B7%20Product%20Analyst-42C5E8?style=for-the-badge&logoColor=white"
     style="height: 40px;"
-    alt="Data Analyst / Product Analyst"
+    alt="Data Analyst · Product Analyst"
   />
 </p>
 
